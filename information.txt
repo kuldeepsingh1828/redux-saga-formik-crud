@@ -1,0 +1,17 @@
+https://anjandutta.com/difference-between-npm-install-save-and-save-dev/
+
+npm install express-generator -g
+
+#command in the folder
+express 
+#npm install
+
+
+MERN/MEAN
+
+
+
+//for CORS Error fix axios
+npm install cors
+
+https://expressjs.com/en/resources/middleware/cors.html
